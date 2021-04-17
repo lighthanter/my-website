@@ -1,0 +1,50 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-image: url(thar1.jpg);
+	background-size: cover;
+}
+
+header{
+	font-family: algerian;
+	font-size: 22px;
+	background-color: rgba(0,0,0,0.7);
+	height: 80px;
+	color: orange;
+	padding: 0px 5px 5px 60px
+}
+
+nav ul{
+	display: inline;
+}
+
+nav ul li{
+	display: inline-block;
+	padding: 0px 30px 0px 30px
+}
+
+header h1 {
+	display: inline-block;
+}
+
+.div{
+	height: 10px;
+	background-color: indigo;
+}
+
+.home{
+	background-color: indigo;
+	padding: 40px 20px 20px 20px;
+}
+
+.hover:hover{
+	background-color: blue;
+	color: white;
+	padding: 40px 20px 20px 20px; 
+}
+
+.div1{
+	float: right;
+	padding: 100px 50px 0px 0px;
+}
+
